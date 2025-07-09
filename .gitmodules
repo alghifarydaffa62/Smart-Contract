@@ -1,3 +1,6 @@
 [submodule "Secure-Wallet/lib/forge-std"]
 	path = Secure-Wallet/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Charity/lib/forge-std"]
+	path = Charity/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
