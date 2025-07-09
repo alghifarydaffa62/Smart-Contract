@@ -2,7 +2,7 @@
 pragma solidity ^0.8.20;
 
 import {Test, console} from "forge-std/Test.sol";
-import {Charity} from "../src/Charity.sol";
+import {Charity} from "../contract/Charity.sol";
 
 contract CharityTest is Test {
     Charity private charity;
