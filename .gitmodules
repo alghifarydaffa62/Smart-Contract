@@ -4,3 +4,6 @@
 [submodule "Charity/lib/forge-std"]
 	path = Charity/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Escrow/lib/forge-std"]
+	path = Escrow/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
