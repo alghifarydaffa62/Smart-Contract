@@ -7,3 +7,6 @@
 [submodule "Escrow/lib/forge-std"]
 	path = Escrow/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Payroll/lib/forge-std"]
+	path = Payroll/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
