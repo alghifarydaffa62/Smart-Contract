@@ -229,7 +229,7 @@ This project is licensed under the MIT License - see the [LICENSE](./lib/forge-s
 
 ## 👨‍💻 Author
 
-**M Daffa Al Ghifary (dfpro)**
+**M Daffa Al Ghifary (alghifarydaffa62)**
 
 ## ⚠️ Disclaimer
 
