@@ -16,3 +16,6 @@
 [submodule "Voting/lib/forge-std"]
 	path = Voting/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Marketplace/lib/forge-std"]
+	path = Marketplace/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
