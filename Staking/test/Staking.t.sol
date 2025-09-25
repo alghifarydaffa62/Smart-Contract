@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.13;
 
-import {Script, console} from "forge-std/Script.sol";
+import {Test, console} from "forge-std/Test.sol";
 import {Staking} from "../src/Staking.sol";
 
-contract StakingScript is Script {
-
+contract StakingTest is Test {
+    
 }
