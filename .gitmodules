@@ -19,3 +19,6 @@
 [submodule "Marketplace/lib/forge-std"]
 	path = Marketplace/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Charity/lib/openzeppelin-contracts"]
+	path = Charity/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
