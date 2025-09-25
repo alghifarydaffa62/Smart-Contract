@@ -25,3 +25,6 @@
 [submodule "Staking/lib/forge-std"]
 	path = Staking/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Staking/lib/openzeppelin-contracts"]
+	path = Staking/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
